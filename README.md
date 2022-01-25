@@ -1,5 +1,5 @@
 # Game
 
-fas bobsge
+fas bobsges
 
 teu toba
