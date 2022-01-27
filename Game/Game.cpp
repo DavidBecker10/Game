@@ -11,6 +11,8 @@ int main()
     sf::CircleShape shape(100.f);
     shape.setFillColor(sf::Color::Green);
 
+    printf("a vai se fude");
+
     while (window.isOpen())
     {
         sf::Event event;
